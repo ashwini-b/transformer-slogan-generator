@@ -29,16 +29,3 @@ A repository for our NLP project that creates slogans based on a companies descr
   - Beam Search Decoding
 - Create the model from the subcomponents
  
-### User Interface Team
-#### Members
-- Jenish
-- Saniya
-- Shubh
-
-#### Responsibility
-- Implement User Interface
-  - React Native
-- Should be able to:
-  - Take in users description about a company
-  - Output the slogan based on this description
- 
