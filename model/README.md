@@ -1,6 +1,8 @@
 # Model
 We will use a transformer model.
 
+![Image of transformer](./transformer-model.png)
+
 ## Data Team
 #### Members
 - Shreyansh
